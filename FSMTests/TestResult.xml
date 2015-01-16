@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\FSMTests.csproj" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2009-10-12" time="21:46:42">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests" machine-name="CONAN" user="Thiago" user-domain="CONAN" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite name="E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\FSMTests.csproj" executed="True" success="True" time="0.000" asserts="0">
+    <results>
+      <test-suite name="E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Debug\tests.dll" executed="True" success="True" time="0.000" asserts="0">
+        <results>
+          <test-suite name="FSMTest1" executed="True" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="FSMTest1.test" executed="True" success="True" time="0.000" asserts="32" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
