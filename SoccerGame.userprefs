@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GoalKeeperController.js">
+    <Files>
+      <File FileName="Assets\Scripts\GoalKeeperController.js" Line="67" Column="10" />
+      <File FileName="Assets\Scripts\PCThirdPersonController.js" Line="71" Column="33" />
+      <File FileName="Assets\Scripts\SGUI.js" Line="37" Column="59" />
+      <File FileName="Assets\Scripts\SoccerTeam.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LookAtMouse.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
