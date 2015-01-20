@@ -1,0 +1,11 @@
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\tests.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\tests.pdb
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\Irrelvant.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\nunit.framework.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\UnityEditor.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\nunit.framework.xml
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\bin\Release\Irrelvant.pdb
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\obj\Release\tests.dll
+E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\FSMTests\obj\Release\tests.pdb

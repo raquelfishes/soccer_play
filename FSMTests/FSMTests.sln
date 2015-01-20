@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMTests", "FSMTests.csproj", "{95CE7EBE-7BDA-477E-A31C-04C1AEED522A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerGame", "..\SoccerGame.csproj", "{8F51E9C5-6F8A-709D-4C3A-EA0B1072988F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CE7EBE-7BDA-477E-A31C-04C1AEED522A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CE7EBE-7BDA-477E-A31C-04C1AEED522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CE7EBE-7BDA-477E-A31C-04C1AEED522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CE7EBE-7BDA-477E-A31C-04C1AEED522A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F51E9C5-6F8A-709D-4C3A-EA0B1072988F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F51E9C5-6F8A-709D-4C3A-EA0B1072988F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F51E9C5-6F8A-709D-4C3A-EA0B1072988F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F51E9C5-6F8A-709D-4C3A-EA0B1072988F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
