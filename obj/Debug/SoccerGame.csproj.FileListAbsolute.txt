@@ -1,8 +1,0 @@
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\obj\Debug\ResolveAssemblyReference.cache
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\Temp\bin\Debug\Irrelvant.dll
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\Temp\bin\Debug\Irrelvant.pdb
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\Temp\bin\Debug\UnityEditor.dll
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\Temp\bin\Debug\UnityEngine-Debug.dll
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\obj\Debug\Irrelvant.dll
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\obj\Debug\Irrelvant.pdb
-E:\Documents and Settings\Thiago\Desktop\GameDev\Projetos_em_andamento\GAME003_UnitySoccer2\SoccerGame\Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
